@@ -25,9 +25,9 @@ It includes **EDA**, **model building**, and a **Flask web app** for real-time p
 
 ## 📊 Tech Stack
 
-Python: pandas, numpy, scikit-learn, matplotlib, seaborn
-Machine Learning: Logistic Regression, Random Forest, XGBoost
-Deployment: Flask, HTML, CSS
+   - Python: pandas, numpy, scikit-learn, matplotlib, seaborn
+   - Machine Learning: Logistic Regression, Random Forest, XGBoost
+   - Deployment: Flask, HTML, CSS
 
 ## 📂 Project Workflow
 
