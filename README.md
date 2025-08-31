@@ -23,7 +23,7 @@ It includes **EDA**, **model building**, and a **Flask web app** for real-time p
    - Predicts churn probability & displays confidence score
    - Can be deployed on **Render/Heroku**
 
-4. 📊 **Tech Stack**
+## 📊 Tech Stack
 
 Python: pandas, numpy, scikit-learn, matplotlib, seaborn
 Machine Learning: Logistic Regression, Random Forest, XGBoost
