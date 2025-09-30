@@ -77,11 +77,11 @@ Model Selection: Chosen due to its high performance on classification tasks, abi
 
 - The Power BI Dashboard provides a dynamic view of:
 
-      --- Overall Churn Rate and Customer Tenure analysis.
+      - Overall Churn Rate and Customer Tenure analysis.
 
-      ---Visualization of the Top features contributing to churn (e.g., contract type, service usage).
+      - Visualization of the Top features contributing to churn (e.g., contract type, service usage).
 
-      ---Revenue impact analysis for better decision-making.
+      - Revenue impact analysis for better decision-making.
 
 
 # 🖼️ Visual Showcase
